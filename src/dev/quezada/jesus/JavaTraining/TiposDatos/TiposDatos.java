@@ -4,6 +4,7 @@ public class TiposDatos {
 
 	public static void main(String[] args) {
 		
+		
 		int versionJava = 9;
 		
 		float versionEspecifica = 9.8f;
